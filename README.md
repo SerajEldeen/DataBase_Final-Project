@@ -20,7 +20,7 @@ This project involves designing and implementing a relational database with esse
 ## How to Run
 1. Clone the repo:
    ```bash
-   git clone [repository URL]
+   git clone https://github.com/SerajEldeen/DataBase_Final-Project.git
    ```
 2. Set up the database:
    - Import the schema and sample data.
