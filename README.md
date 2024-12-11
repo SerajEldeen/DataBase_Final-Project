@@ -14,8 +14,7 @@ This project involves designing and implementing a relational database with esse
 1. **Plan**: Define business needs and identify key entities.
 2. **Design**: Create the ERD and translate it into a schema.
 3. **Build Database**: Set up the database and add sample data.
-5. **Connect**: Link the frontend to the database.
-6. **Test**: Ensure everything works smoothly.
+4. **Test**: Ensure everything works smoothly.
 
 ## How to Run
 1. Clone the repo:
