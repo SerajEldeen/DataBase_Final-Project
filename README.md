@@ -23,8 +23,5 @@ This project involves designing and implementing a relational database with esse
    ```
 2. Set up the database:
    - Import the schema and sample data.
-3. Run the frontend:
-   - Navigate to the frontend directory and start the server.
-
 ---
 
