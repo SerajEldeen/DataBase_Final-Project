@@ -7,4 +7,4 @@ Business Processes:
 3-Borrowing and Returning Books
 •Enable members to borrow books and track due dates.
 4-Staff Management
-•Maintain staff details for administrators or librarians who manage the library.
+•Maintain staff details for administrators or librarians who manage the library. 
