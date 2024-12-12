@@ -14,7 +14,3 @@ Business Processes:
 4-Staff Management
 
 •Maintain staff details for administrators or librarians who manage the library.
-
-6-Reporting and Statistics
-
-•Generate reports on popular books, overdue books, or frequent borrowers.
